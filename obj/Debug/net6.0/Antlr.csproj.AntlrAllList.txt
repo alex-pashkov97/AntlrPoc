@@ -1,0 +1,6 @@
+obj/Debug/net6.0/PocParser.cs
+obj/Debug/net6.0/PocLexer.cs
+obj/Debug/net6.0/PocListener.cs
+obj/Debug/net6.0/PocBaseListener.cs
+obj/Debug/net6.0/PocVisitor.cs
+obj/Debug/net6.0/PocBaseVisitor.cs
